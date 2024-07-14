@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LuasPersegi</string>
+    <string name="appTitle">Luas Persegi</string>
+    <string name="edge">Sisi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
 </resources>

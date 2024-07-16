@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LuasSegitiga</string>
+    <string name="app_title">Luas Segitiga</string>
+    <string name="base">alas</string>
+    <string name="height">tinggi</string>
+    <string name="calculate">Hitung Luas Segitiga</string>
+    <string name="result">Hasil</string>
 </resources>
